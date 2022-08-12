@@ -6,7 +6,7 @@ from typing import List   # this list is a list which will have str elements
 # declaring variables for setup functions
 
 PROJECT_NAME='housing-predictor'
-VERSION="0.0.1"
+VERSION="0.0.3"
 AUTHOR="marshel"
 DESCRIPTION='this is the first ml project experimenting'
 PACKAGES=['housing']
